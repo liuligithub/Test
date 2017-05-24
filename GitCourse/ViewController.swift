@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     }
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        let xing = "xing"
+        let hhh = "xing"
     }
 
     override func didReceiveMemoryWarning() {
