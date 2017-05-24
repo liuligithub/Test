@@ -11,8 +11,8 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
-        let liu = "liu"
-        print(liu)
+        let bbb = "liu"
+        print(bbb)
         
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
