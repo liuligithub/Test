@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F4418D31ED5DD10007D863C /* Apple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4418D21ED5DD10007D863C /* Apple.swift */; };
 		5FF11AD61ED5CDE600529A4F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FF11AD51ED5CDE600529A4F /* AppDelegate.swift */; };
 		5FF11AD81ED5CDE600529A4F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FF11AD71ED5CDE600529A4F /* ViewController.swift */; };
 		5FF11ADB1ED5CDE600529A4F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FF11AD91ED5CDE600529A4F /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5F4418D21ED5DD10007D863C /* Apple.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Apple.swift; sourceTree = "<group>"; };
 		5FF11AD21ED5CDE600529A4F /* GitCourse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitCourse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FF11AD51ED5CDE600529A4F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5FF11AD71ED5CDE600529A4F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				5FF11AD51ED5CDE600529A4F /* AppDelegate.swift */,
 				5FF11AD71ED5CDE600529A4F /* ViewController.swift */,
+				5F4418D21ED5DD10007D863C /* Apple.swift */,
 				5FF11AD91ED5CDE600529A4F /* Main.storyboard */,
 				5FF11ADC1ED5CDE600529A4F /* Assets.xcassets */,
 				5FF11ADE1ED5CDE600529A4F /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F4418D31ED5DD10007D863C /* Apple.swift in Sources */,
 				5FF11AD81ED5CDE600529A4F /* ViewController.swift in Sources */,
 				5FF11AD61ED5CDE600529A4F /* AppDelegate.swift in Sources */,
 			);
@@ -510,6 +514,7 @@
 				5FF11AFC1ED5CDE600529A4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5FF11AFD1ED5CDE600529A4F /* Build configuration list for PBXNativeTarget "GitCourseTests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +523,7 @@
 				5FF11AFF1ED5CDE600529A4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5FF11B001ED5CDE600529A4F /* Build configuration list for PBXNativeTarget "GitCourseUITests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +532,7 @@
 				5FF11B021ED5CDE600529A4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

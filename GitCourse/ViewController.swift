@@ -11,8 +11,15 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
+        let liu = "liu"
+        print(liu)
+        
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+    }
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        let xing = "xing"
     }
 
     override func didReceiveMemoryWarning() {
