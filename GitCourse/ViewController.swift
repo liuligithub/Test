@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  GitCourse
 //
-//  Created by liuli on 2017/5/24.
+//  Created by 刘莉 on 2017/5/24.
 //  Copyright © 2017年 刘莉. All rights reserved.
 //
 
